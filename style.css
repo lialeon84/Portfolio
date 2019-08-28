@@ -1,0 +1,59 @@
+
+body {
+	
+
+background: url('bg1.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Wendy One', sans-serif;
+
+
+}
+
+h1 {
+
+	color: #0099cc;
+	font-size: 35px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2 {
+   color: #0099cc;
+   font-size: 20px;
+   margin-top: 0;
+}
+
+.bio {
+
+	color: #0099cc;
+	font-size: 25px;
+
+
+}
+
+.me {
+
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: #0099cc;
+	margin-top: 40px;
+}
+
+.about {
+
+	width: 350px;
+	margin-left: 30px;
+	text-align: center;
+}
+
+.grey {
+
+	height: 3px;
+	background-color: #0099cc;
+	border: none;
+	width: 50px;
+}
